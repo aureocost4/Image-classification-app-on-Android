@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Classificacao de Frutas Modelo Customizado TF Lite</string>
+    <string name="texto_descricao">Classificada como</string>
+    <string name="texto_classificacao"></string>
+    <string name="botao_camera">Tirar foto</string>
+    <string name="botao_galeria">Abrir galeria</string>
+</resources>
